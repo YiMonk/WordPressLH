@@ -6,11 +6,12 @@ Resumen de comandos útiles
 
 ## Iniciar 
 
-    Apache	httpd.exe -k start
+     cd C:\Apache24\bin
+    httpd.exe -k start
 
 ## Reiniciar 
 
-    Apache	httpd.exe -k restart
+  httpd.exe -k restart
 
 ## Detener Apache	
   
