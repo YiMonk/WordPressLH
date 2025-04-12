@@ -127,7 +127,7 @@ Abre CMD y ejecuta:
         FLUSH PRIVILEGES;
         EXIT;
   
- ###Configura WordPress:
+ ### Configura WordPress:
 
  - Renombra wp-config-sample.php a wp-config.php en C:\Apache24\htdocs\wordpress.
  - Edita wp-config.php y actualiza estos datos:
