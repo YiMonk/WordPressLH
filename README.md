@@ -3,11 +3,22 @@
 Guía para instalar WordPress en Local Host en win11 con Apache y MariaDB 
 
 Resumen de comandos útiles
-Acción	Comando
-Iniciar Apache	httpd.exe -k start
-Reiniciar Apache	httpd.exe -k restart
-Detener Apache	httpd.exe -k stop
-Acceder a MariaDB	mysql -u root -p
+
+## Iniciar 
+
+    Apache	httpd.exe -k start
+
+## Reiniciar 
+
+    Apache	httpd.exe -k restart
+
+## Detener Apache	
+  
+    httpd.exe -k stop
+
+## Acceder a MariaDB	
+
+    mysql -u root -p
 
 
 # Paso 1 Instalar Apache HTTP Server 
